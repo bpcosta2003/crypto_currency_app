@@ -1,3 +1,42 @@
+# Cryptocurrency APP
+
+Tutorial :  https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=18257s
+
+## Project 🖱️
+
+See the project https://crypto-currency-app-bybrunocosta.vercel.app/
+
+![image](https://user-images.githubusercontent.com/69023428/158252566-0eb49671-79b7-4faf-ac5f-bc44ac86a328.png)
+![image](https://user-images.githubusercontent.com/69023428/158252657-637a009e-c639-4864-b8b1-b597ab301e13.png)
+
+## Technologies 💻
+<div style="display: inline_block"><br>
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+</div>
+</br>
+
+### Packages 🔧
+- Ant Design
+- Axios
+- Chart.js
+- Millify
+- Moment 
+- React Router Dom
+
+## Functionalities ⚙️
+- Crypto API consumption (https://rapidapi.com/hub) ✔️
+- News API consumption (https://rapidapi.com/hub) ✔️
+- Charts ✔️
+- Options filter ( Crypto Currencies ) ✔️
+
+## Configuration
+- Clone the project ```git clone```
+- Open the terminal and type  ```npm i``` to download all the dependencies.
+- Execute  ```npm run dev```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
