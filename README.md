@@ -27,8 +27,8 @@ See the project
 - React Router Dom
 
 ## Functionalities ⚙️
-- Crypto API consumption  ✔️
-- News API consumption ✔️
+- Crypto API consumption (https://rapidapi.com/hub) ✔️
+- News API consumption (https://rapidapi.com/hub) ✔️
 - Charts ✔️
 - Options filter ( Crypto Currencies ) ✔️
 
