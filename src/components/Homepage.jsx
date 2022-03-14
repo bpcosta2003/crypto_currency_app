@@ -1,17 +1,9 @@
 import React from "react";
 import millify from "millify";
-import {Typography, Row, Col, Statistic, Card} from "antd";
+import {Typography, Row, Col, Statistic} from "antd";
 import {Link} from "react-router-dom";
 import {useGetCryptosQuery} from "../services/cryptoApi";
 import Loader from "./Loader";
-
-import {
-  HomeOutlined,
-  MoneyCollectOutlined,
-  BulbOutlined,
-  FundOutlined,
-  MenuOutlined,
-} from "@ant-design/icons";
 
 import {Cryptocurrencies, News} from "../components";
 

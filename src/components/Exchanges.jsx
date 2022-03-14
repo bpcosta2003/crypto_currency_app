@@ -1,5 +1,5 @@
 import React from "react";
-import millify from "millify";
+// import millify from "millify";
 import {Collapse, Row, Col, Typography, Avatar} from "antd";
 import HTMLReactParser from "html-react-parser";
 
@@ -11,7 +11,7 @@ const {Panel} = Collapse;
 
 const Exchanges = () => {
   const {data, isFetching} = useGetExchangesQuery();
-  const exchangesList = data?.data?.exchanges;
+  // const exchangesList = data?.data?.exchanges;
   const list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14];
 
   // Acessar EXCHANGES é necessário um premium plan
