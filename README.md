@@ -4,7 +4,7 @@ Tutorial :  https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=18257s
 
 ## Project 🖱️
 
-See the project
+See the project https://crypto-currency-app-bybrunocosta.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/69023428/158252566-0eb49671-79b7-4faf-ac5f-bc44ac86a328.png)
 ![image](https://user-images.githubusercontent.com/69023428/158252657-637a009e-c639-4864-b8b1-b597ab301e13.png)
